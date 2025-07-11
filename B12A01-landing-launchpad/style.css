@@ -1,0 +1,58 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Shared background for navbar and banner */
+.header-nav {
+  background: url('Assets/Hero-bg.png') center/cover no-repeat;
+}
+
+/* Navbar styling */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+}
+
+.logo {
+  font-weight: bold;
+  color: #4A00E0; /* Example logo color */
+  font-size: 24px;
+}
+
+.btn.signup {
+  background-color: #4A00E0;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+/* Banner styling */
+.banner {
+  text-align: center;
+  padding: 150px 20px;
+}
+
+.banner h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.btn.focus {
+  background-color: #4A00E0;
+  color: #fff;
+  padding: 12px 30px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
