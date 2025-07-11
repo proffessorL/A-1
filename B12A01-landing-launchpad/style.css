@@ -9,7 +9,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* Shared background for navbar and banner */
+
 .header-nav {
   background: url('Assets/Hero-bg.png') center/cover no-repeat;
 }
@@ -24,7 +24,7 @@ body {
 
 .logo {
   font-weight: bold;
-  color: #4A00E0; /* Example logo color */
+  color: #4A00E0; 
   font-size: 24px;
 }
 

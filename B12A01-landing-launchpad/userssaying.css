@@ -4,8 +4,8 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
-      margin: 0;
+      padding: 25px;
+      margin: 50px 80px;
     }
     .container {
       text-align: center;
