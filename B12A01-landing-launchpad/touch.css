@@ -60,17 +60,22 @@
             margin: 30px 0;
         }
         
-       .btn.signup {
-  background-color: #4A00E0;
-  color: #ffffff;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 4px;}
-
-.btn.focus {
-    background-color: #4A00E0;
-  color: #fff;
-  padding: 12px 30px;
-  text-decoration: none;
-  border-radius: 4px;
+     .signup-button {
+  background-color: #3498db; 
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;  
+  
 }
+.getintouch{
+    text-decoration: none;
+}
+.signup-button:hover {
+  background-color: #2980b9;  /* Darker blue on hover */
+}
+
+
