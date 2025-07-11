@@ -1,0 +1,25 @@
+.Users-Section{
+ background-color: #c5c3fb; 
+ margin: 160px;
+ padding: 50px 80px;
+}
+
+.user-div{
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+}
+ .joined{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    
+ }
+
+ .user{
+    font-size: 80px;
+    font-weight: bold;
+    color: #6660ff;
+ }
+
+ 
