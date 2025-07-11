@@ -19,7 +19,8 @@
         }
         
         .contact-main-heading {
-            font-size: 28px;
+            font-size: 60px;
+            font: bolder;
             margin-bottom: 30px;
             font-weight: 600;
         }

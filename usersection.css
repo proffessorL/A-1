@@ -1,7 +1,7 @@
 .Users-Section{
  background-color: #c5c3fb; 
  margin: 160px;
- padding: 50px 80px;
+ padding: 50px 80px; border-radius: 25px;
 }
 
 .user-div{
